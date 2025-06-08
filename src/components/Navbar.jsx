@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import {
   FaBell,
   FaQuestionCircle,
-  FaShoppingCart,
   FaSearch,
   FaBars,
   FaTimes,
@@ -60,14 +59,11 @@ const Navbar = () => {
           </button>
 
           {/* Help Icon - Hidden on small mobile */}
-          <button className="hidden xs:block text-gray-700">
+          <button className=" text-gray-700">
             <FaQuestionCircle size={18} className="sm:w-5 sm:h-5" />
           </button>
 
-          {/* Cart Icon */}
-          <button className="text-gray-700">
-            <FaShoppingCart size={18} className="sm:w-5 sm:h-5" />
-          </button>
+         
 
           {/* Language Selector */}
           <div className="flex items-center space-x-2">
