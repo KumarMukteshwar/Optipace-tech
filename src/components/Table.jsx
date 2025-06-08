@@ -317,22 +317,14 @@ const Table = () => {
             {/* Mobile Expanded Details */}
             {expandedRow === index && (
               <div className="px-4 pb-4 bg-blue-50 border-t">
-                <div className="pt-3 space-y-2">
-                  <p className="text-sm text-gray-700">
-                    📌 <strong>Details:</strong> This is a dropdown for invoice{" "}
-                    <strong className="text-blue-600">
-                      {invoice.invoiceId}
-                    </strong>{" "}
-                    belonging to{" "}
-                    <strong className="text-blue-600">{invoice.company}</strong>
-                    .
-                  </p>
-                  <div className="text-sm text-gray-600">
-                    <strong>GST:</strong> {invoice.gst} |{" "}
-                    <strong>Order ID:</strong> {invoice.orderId} |{" "}
-                    <strong>Department:</strong> {invoice.department}
-                  </div>
-                </div>
+                   <div className="space-y-2">
+                          <p className="text-sm">
+                            📌 <strong>Remark</strong> 
+                          </p>
+                          <div className="text-sm text-gray-600">
+                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum</p>
+                          </div>
+                        </div>
               </div>
             )}
           </div>
