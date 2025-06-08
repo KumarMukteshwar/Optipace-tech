@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "company": "Geodesic",
+      "gst": "22AAAAA0000A1Z5",
+      "orderId": "SD100037",
+      "invoiceId": "1234",
+      "issuedDate": "22-02-2222",
+      "amount": "12341233",
+      "department": "Accounts"
+    },
+    {
+      "id": 2,
+      "company": "OPtipace Technology PVT",
+      "gst": "22AAAAA0000A1Z5",
+      "orderId": "SD100038",
+      "invoiceId": "213",
+      "issuedDate": "22-02-2222",
+      "amount": "3141515",
+      "department": "Admin"
+    },
+    {
+      "id": 3,
+      "company": "Sony",
+      "gst": "22AAAAA0000A1Z5",
+      "orderId": "qw100037",
+      "invoiceId": "432",
+      "issuedDate": "22-02-2222",
+      "amount": "561514151",
+      "department": "Finance"
+    },
+    {
+      "id": 4,
+      "company": "IBM",
+      "gst": "22AAAAA0000A1Z5",
+      "orderId": "Qsdr100037",
+      "invoiceId": "223",
+      "issuedDate": "22-02-2222",
+      "amount": "5424247",
+      "department": "Accounts"
+    },
+    {
+      "id": 5,
+      "company": "ITC Infotech India LTD",
+      "gst": "22AAAAA0000A1Z5",
+      "orderId": "We100037",
+      "invoiceId": "112234",
+      "issuedDate": "22-02-2222",
+      "amount": "43536334",
+      "department": "Admin"
+    },
+    {
+      "id": 6,
+      "company": "DELL",
+      "gst": "22AAAAA0000A1Z5",
+      "orderId": "Qwe100037",
+      "invoiceId": "234",
+      "issuedDate": "22-02-2222",
+      "amount": "72672552",
+      "department": "Legal"
+    },
+    {
+      "id": 7,
+      "company": "Apple Mac India",
+      "gst": "22AAAAA0000A1Z5",
+      "orderId": "AaSD100037",
+      "invoiceId": "1234",
+      "issuedDate": "22-02-2222",
+      "amount": "0292872",
+      "department": "Recovery"
+    },
+    {
+      "id": 8,
+      "company": "Microsoft PVT Ltd",
+      "gst": "22AAAAA0000A1Z5",
+      "orderId": "SDwe100037",
+      "invoiceId": "112334445555",
+      "issuedDate": "22-02-2222",
+      "amount": "272727662626",
+      "department": "Treasury"
+    },
+    {
+      "id": 9,
+      "company": "HP PVT Ltd",
+      "gst": "22AAAAA0000A1Z5",
+      "orderId": "SD10900037",
+      "invoiceId": "112234455",
+      "issuedDate": "22-02-2222",
+      "amount": "82872",
+      "department": "Accounts"
+    }
+  ]
+  
